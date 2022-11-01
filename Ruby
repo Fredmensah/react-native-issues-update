@@ -1,0 +1,8 @@
+// undefined method `request' for nil:NilClass when using gem to install fastlane
+https://stackoverflow.com/questions/66585376/undefined-method-request-for-nilnilclass-when-using-gem-to-install-fastlane
+
+// Ruby version manager
+https://mac.install.guide/faq/change-ruby-version/index.html
+
+// Ruby packages
+https://stackoverflow.com/questions/38194032/how-can-i-update-ruby-version-2-0-0-to-the-latest-version-in-mac-os-x-v10-10-yo
